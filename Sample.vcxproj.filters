@@ -19,4 +19,13 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="ovalnoise.frag">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="ovalnoise.vert">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="ovalnoise.glib" />
+  </ItemGroup>
 </Project>
